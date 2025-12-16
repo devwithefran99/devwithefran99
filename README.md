@@ -28,7 +28,7 @@
 ---
 
 ### 📫 Contact Me
-- 📧 Email: your-email@gmail.com
+- 📧 Email: devwithefran99@gmail.com
 - 💼 GitHub: [github.com/devwithefran99](https://github.com/devwithefran99)
 
 ---
