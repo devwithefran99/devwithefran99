@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erfan Hossen</h1>
 <h3 align="center">A passionate Full-stack web developer Form Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devwithefran99&label=Profile%20views&color=0e75b6&style=flat" alt="devwithefran99" /> </p>
+<p align="left"> <img src="blob:https://web.whatsapp.com/c1c5d9ba-af15-46fc-b736-59ed13ddab22" alt="devwithefran99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devwithefran99" alt="devwithefran99" /></a> </p>
 
@@ -14,8 +14,6 @@
 - 🤝 I’m looking for help with **React Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/devwithefran99](https://github.com/devwithefran99)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/dev-with-shawon-2b0261385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/dev-with-shawon-2b0261385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 - 💬 Ask me about **Html,Css,laravel,jQuary**
 
