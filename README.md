@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="blob:https://web.whatsapp.com/c1c5d9ba-af15-46fc-b736-59ed13ddab22" alt="devwithefran99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devwithefran99" alt="devwithefran99" /></a> </p>
-
 - 🔭 I’m currently working on **Laravel & E-commerce Projects**
 
 - 🌱 I’m currently learning **React js**
