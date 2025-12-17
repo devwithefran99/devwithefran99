@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-stack web developer Form Bangladesh</h3>
 
 <p align="left">
-  <img src="cvr.jpg" alt="devwithefran99" width="200"/>
+  <img src="cvr.jpg" alt="devwithefran99" max-width:100%/>
 </p>
 
 
