@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Erfan Hossen</h1>
 <h3 align="center">A passionate Full-stack web developer Form Bangladesh</h3>
 
-<p align="left"> <img src="C:\Users\dell\Downloads\cvr.jpg
-" alt="devwithefran99" /> </p>
+<p align="left">
+  <img src="images/cvr.jpg" alt="devwithefran99" width="200"/>
+</p>
 
 - 🔭 I’m currently working on **Laravel & E-commerce Projects**
 
