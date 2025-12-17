@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Erfan Hossen</h1>
-<h3 align="center">A passionate Full-stack web developer Form Bangladesh</h3>
 
 <p align="left">
-  <img src="cvr.jpg" alt="devwithefran99" max-width:100%/>
+  <img src="cvr.jpg" alt="devwithefran99" max-width:80%/>
 </p>
-
+<h1 align="center">Hi 👋, I'm Erfan Hossen</h1>
+<h3 align="center">A passionate Full-stack web developer Form Bangladesh</h3>
 
 - 🔭 I’m currently working on **Laravel & E-commerce Projects**
 
