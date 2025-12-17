@@ -1,6 +1,6 @@
 
 <p align="left">
-  <img src="cvr.jpg" alt="devwithefran99" width: 200px/>
+  <img src="cvr.jpg" alt="devwithefran99" max-width:50%/>
 </p>
 <h1 align="center">Hi 👋, I'm Erfan Hossen</h1>
 <h3 align="center">A passionate Full-stack web developer Form Bangladesh</h3>
