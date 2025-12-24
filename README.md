@@ -42,12 +42,6 @@
 
 ---
 
-### 📫 Contact Me
-- 📧 Email: devwithefran99@gmail.com
-- 💼 GitHub: [github.com/devwithefran99](https://github.com/devwithefran99)
-
----
-
 ⭐ *Feel free to check my repositories & give a star!*
 
 
