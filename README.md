@@ -2,7 +2,7 @@
 <p align="left">
   <img src="cvr.jpg" alt="devwithefran99" max-width:100%/>
 </p>
-![Visitor Count](https://profile-counter.glitch.me/devwithefran99/count.svg)
+![](https://komarev.com/ghpvc/?username=devwithefran99&label=Profile%20Views&color=0e75b6&style=flat)
 <h1 align="center">Hi 👋, I'm Erfan Hossen</h1>
 <h3 align="center">A passionate Full-stack web developer Form Bangladesh</h3>
 
