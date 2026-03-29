@@ -2,7 +2,7 @@
 <p align="left">
   <img src="cvr.jpg" alt="devwithefran99" max-width:100%/>
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=[devwithefran99](https://github.com/devwithefran99)&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=(https://github.com/devwithefran99)&color=blue)
 <h1 align="center">Hi 👋, I'm Erfan Hossen</h1>
 <h3 align="center">A passionate Full-stack web developer Form Bangladesh</h3>
 
