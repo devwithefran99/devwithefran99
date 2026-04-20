@@ -1,6 +1,7 @@
 
 <p align="left">
-  <img src="git.gif" alt="devwithefran99" max-width:100%/>
+  <img width="1600" height="700" alt="git" src="https://github.com/user-attachments/assets/512ad023-24d9-4137-9820-2257d33be6d6" />
+
 </p>
 <h1 align="center">Hi 👋, I'm Erfan Hossen</h1>
 <h3 align="center">A passionate Full-stack web developer Form Bangladesh</h3>
