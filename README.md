@@ -2,52 +2,145 @@
 <p align="left">
   <img width="1600" height="700" alt="git" src="https://github.com/user-attachments/assets/512ad023-24d9-4137-9820-2257d33be6d6" />
 
-</p>
-<h1 align="center">Hi 👋, I'm Erfan Hossen</h1>
-<h3 align="center">A passionate Full-stack web developer Form Bangladesh</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Laravel & E-commerce Projects**
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:0f0f1e,60:161628,100:0a0a0f&height=220&section=header&text=Erfan%20Hossen%20Shawon&fontSize=46&fontColor=e8e6f8&fontAlignY=40&desc=Full-Stack%20Web%20Developer%20%E2%80%94%20Bangladesh&descColor=4a4868&descAlignY=62&descSize=15&animation=fadeIn)
 
-- 🌱 I’m currently learning **React js**
+</div>
 
-- 👯 I’m looking to collaborate on **github**
+<br/>
 
-- 🤝 I’m looking for help with **React Project**
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [https://github.com/devwithefran99](https://github.com/devwithefran99)
+[![Profile Views](https://komarev.com/ghpvc/?username=devwithefran99&color=6c63ff&style=flat-square&label=PROFILE+VIEWS)](https://github.com/devwithefran99)
+&nbsp;&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/devwithefran99?style=flat-square&color=6c63ff&labelColor=0d0d14&label=FOLLOWERS)](https://github.com/devwithefran99?tab=followers)
+&nbsp;&nbsp;
+[![GitHub Stars](https://img.shields.io/github/stars/devwithefran99?style=flat-square&color=2dc89a&labelColor=0d0d14&label=STARS)](https://github.com/devwithefran99)
 
-- 💬 Ask me about **Html,Css,laravel,jQuary**
+</div>
 
-- 📫 How to reach me **devwithefran99@gmail.com**
+<br/>
 
-- ⚡ Fun fact **I love clean code & problem solving**
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   > initializing profile · · ·                          ║
+║   > name     :  Erfan Hossen Shawon                     ║
+║   > role     :  Full-Stack Web Developer                 ║
+║   > location :  Bangladesh 🇧🇩                           ║
+║   > status   :  Building · Learning · Creating           ║
+║   > contact  :  devwithefran99@gmail.com                 ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devwithefran99&show_icons=true&locale=en&layout=compact" alt="devwithefran99" /></p>
+</div>
 
-### 🛠️ Skills
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-EF3B2D?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-
----
-
-### 📌 Featured Projects
-- 🛒 **Laravel E-commerce Website**
-- ❤️ **Wishlist & Cart System**
-- 🔐 **Authentication System**
+<br/>
 
 ---
 
-⭐ *Feel free to check my repositories & give a star!*
+<div align="center">
 
+### `< about me />`
 
+</div>
+
+<br/>
+
+```yaml
+currently_building : "Laravel & E-commerce Projects"
+currently_learning : "React.js — diving deep into modern frontend"
+open_to_collaborate: true
+ask_me_about       : ["HTML", "CSS", "Laravel", "PHP", "jQuery", "JavaScript"]
+fun_fact           : "I love clean code & problem solving"
+```
+
+<br/>
+
+---
+
+<div align="center">
+
+### `< github analytics />`
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=devwithefran99&show_icons=true&hide_border=true&bg_color=0d0d14&title_color=6c63ff&icon_color=2dc89a&text_color=8a8898&ring_color=6c63ff&include_all_commits=true&count_private=true" />
+&nbsp;
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwithefran99&layout=compact&hide_border=true&bg_color=0d0d14&title_color=6c63ff&text_color=8a8898&langs_count=6" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="500px" src="https://streak-stats.demolab.com?user=devwithefran99&theme=transparent&hide_border=true&background=0d0d14&ring=6c63ff&fire=2dc89a&currStreakLabel=6c63ff&sideLabels=8a8898&dates=4a4868&stroke=1e1e2e&currStreakNum=e8e6f8&sideNums=c8c6d8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="800px" src="https://github-readme-activity-graph.vercel.app/graph?username=devwithefran99&bg_color=0d0d14&color=6c63ff&line=2dc89a&point=e8e6f8&area=true&area_color=6c63ff&hide_border=true&custom_title=contribution+graph" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### `< featured projects />`
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| &nbsp; | Project | Description | Status |
+|:---:|:---|:---|:---:|
+| `01` | **Laravel E-commerce** | Full-featured online store with product, cart & order management | `active` |
+| `02` | **Wishlist & Cart System** | Dynamic cart with persistent wishlist using jQuery & Laravel | `done` |
+| `03` | **Auth System** | Secure login, register & role-based authentication | `done` |
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### `< connect />`
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-0d0d14?style=for-the-badge&logo=github&logoColor=6c63ff)](https://github.com/devwithefran99)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/EMAIL-0d0d14?style=for-the-badge&logo=gmail&logoColor=2dc89a)](mailto:devwithefran99@gmail.com)
+
+<br/>
+
+*— feel free to explore the repositories & drop a ⭐ if something helps you —*
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0f0f1e,100:0a0a0f&height=100&section=footer)
+
+</div>
