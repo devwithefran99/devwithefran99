@@ -1,146 +1,317 @@
-
-<p align="left">
+<p align="center">
   <img width="1600" height="700" alt="git" src="https://github.com/user-attachments/assets/512ad023-24d9-4137-9820-2257d33be6d6" />
+</p>
 
-<div align="center">
+<h1 align="center">Hi, I'm Erfan Hossen Shawon 👋</h1>
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:0f0f1e,60:161628,100:0a0a0f&height=220&section=header&text=Erfan%20Hossen%20Shawon&fontSize=46&fontColor=e8e6f8&fontAlignY=40&desc=Full-Stack%20Web%20Developer%20%E2%80%94%20Bangladesh&descColor=4a4868&descAlignY=62&descSize=15&animation=fadeIn)
+<p align="center">
+  <strong>Full-Stack Web Developer</strong> · Bangladesh 🇧🇩
+</p>
 
-</div>
+<p align="center">
+  I build responsive, scalable web applications and eCommerce systems<br/>
+  with a strong focus on clean UI, practical backend architecture, and continuous learning.
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/devwithefran99">
+    <img src="https://komarev.com/ghpvc/?username=devwithefran99&style=for-the-badge&color=6c63ff&label=PROFILE+VIEWS" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/devwithefran99?tab=followers">
+    <img src="https://img.shields.io/github/followers/devwithefran99?style=for-the-badge&color=2dc89a&label=FOLLOWERS" alt="Followers"/>
+  </a>
+</p>
 
-<div align="center">
+🚀 About Me
 
-[![Profile Views](https://komarev.com/ghpvc/?username=devwithefran99&color=6c63ff&style=flat-square&label=PROFILE+VIEWS)](https://github.com/devwithefran99)
-&nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/devwithefran99?style=flat-square&color=6c63ff&labelColor=0d0d14&label=FOLLOWERS)](https://github.com/devwithefran99?tab=followers)
-&nbsp;&nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/devwithefran99?style=flat-square&color=2dc89a&labelColor=0d0d14&label=STARS)](https://github.com/devwithefran99)
+Full-Stack Developer
+├── Frontend   → HTML5 · CSS3 · JavaScript · React · Tailwind · Bootstrap
+├── Backend    → PHP · Laravel · Node.js · Express.js
+├── Database   → MySQL · MariaDB · MongoDB · Mongoose
+├── Tools      → Git · GitHub · Composer · NPM · Vite
+└── Exploring  → TypeScript · Next.js · AI Integration · Testing
 
-</div>
+🔭 Currently building Laravel & eCommerce projects
 
-<br/>
+🌱 Currently learning React.js, TypeScript, Next.js & modern full-stack development
 
-<div align="center">
+🤖 Exploring AI integration and AI-assisted development
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   > initializing profile · · ·                          ║
-║   > name     :  Erfan Hossen Shawon                     ║
-║   > role     :  Full-Stack Web Developer                 ║
-║   > location :  Bangladesh 🇧🇩                           ║
-║   > status   :  Building · Learning · Creating           ║
-║   > contact  :  devwithefran99@gmail.com                 ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+🧩 Interested in clean architecture, reusable components and real-world problem solving
 
-</div>
+🤝 Open to collaboration and interesting web projects
 
-<br/>
+💬 Ask me about HTML, CSS, JavaScript, PHP, Laravel, Bootstrap, jQuery, React
 
----
+📫 Email: devwithefran99@gmail.com
 
-<div align="center">
+🧰 Tech Stack
 
-### `< about me />`
+Frontend
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,jquery,ts,nextjs" alt="Frontend Technologies"/>
+</p>
 
-<br/>
+Technology
 
-```yaml
-currently_building : "Laravel & E-commerce Projects"
-currently_learning : "React.js — diving deep into modern frontend"
-open_to_collaborate: true
-ask_me_about       : ["HTML", "CSS", "Laravel", "PHP", "jQuery", "JavaScript"]
-fun_fact           : "I love clean code & problem solving"
-```
+Focus
 
-<br/>
+HTML5
 
----
+Semantic & accessible markup
 
-<div align="center">
+CSS3
 
-### `< github analytics />`
+Responsive layouts & modern styling
 
-</div>
+JavaScript / ES6+
 
-<br/>
+DOM, events, arrays, functions & problem solving
 
-<div align="center">
+React.js
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=devwithefran99&show_icons=true&hide_border=true&bg_color=0d0d14&title_color=6c63ff&icon_color=2dc89a&text_color=8a8898&ring_color=6c63ff&include_all_commits=true&count_private=true" />
-&nbsp;
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwithefran99&layout=compact&hide_border=true&bg_color=0d0d14&title_color=6c63ff&text_color=8a8898&langs_count=6" />
+Component-based UI development
 
-</div>
+Tailwind CSS
 
-<br/>
+Utility-first responsive design
 
-<div align="center">
+Bootstrap 5
 
-<img width="500px" src="https://streak-stats.demolab.com?user=devwithefran99&theme=transparent&hide_border=true&background=0d0d14&ring=6c63ff&fire=2dc89a&currStreakLabel=6c63ff&sideLabels=8a8898&dates=4a4868&stroke=1e1e2e&currStreakNum=e8e6f8&sideNums=c8c6d8" />
+Rapid responsive UI development
 
-</div>
+jQuery
 
-<br/>
+DOM manipulation & dynamic interfaces
 
-<div align="center">
+TypeScript
 
-<img width="800px" src="https://github-readme-activity-graph.vercel.app/graph?username=devwithefran99&bg_color=0d0d14&color=6c63ff&line=2dc89a&point=e8e6f8&area=true&area_color=6c63ff&hide_border=true&custom_title=contribution+graph" />
+Type-safe JavaScript, basic OOP & modern patterns
 
-</div>
+Next.js
 
-<br/>
+Modern React-based full-stack applications
 
----
+Backend
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" alt="Backend Technologies"/>
+</p>
 
-### `< featured projects />`
+PHP & Laravel — MVC, routing, controllers, middleware, authentication, CRUD and eCommerce workflows
 
-</div>
+Node.js & Express.js — REST APIs, server-side JavaScript and backend fundamentals
 
-<br/>
+Modular Pattern — organizing backend features into maintainable modules
 
-<div align="center">
+API Integration — consuming and building REST-style APIs
 
-| &nbsp; | Project | Description | Status |
-|:---:|:---|:---|:---:|
-| `01` | **Laravel E-commerce** | Full-featured online store with product, cart & order management | `active` |
-| `02` | **Wishlist & Cart System** | Dynamic cart with persistent wishlist using jQuery & Laravel | `done` |
-| `03` | **Auth System** | Secure login, register & role-based authentication | `done` |
+Databases
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database Technologies"/>
+</p>
 
-<br/>
+MySQL / MariaDB
 
----
+MongoDB
 
-<div align="center">
+Mongoose / ODM
 
-### `< connect />`
+Database relationships, CRUD, migrations and data modeling
 
-<br/>
+UI Libraries & Development Tools
 
-[![GitHub](https://img.shields.io/badge/GITHUB-0d0d14?style=for-the-badge&logo=github&logoColor=6c63ff)](https://github.com/devwithefran99)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/EMAIL-0d0d14?style=for-the-badge&logo=gmail&logoColor=2dc89a)](mailto:devwithefran99@gmail.com)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,composer,npm,vite" alt="Development Tools"/>
+</p>
 
-<br/>
+UI Libraries
 
-*— feel free to explore the repositories & drop a ⭐ if something helps you —*
+Hero UI
 
-</div>
+shadcn/ui
 
-<br/>
+Frontend / Visualization
 
-<div align="center">
+AOS
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0f0f1e,100:0a0a0f&height=100&section=footer)
+Slick Slider
 
-</div>
+ApexCharts
+
+Development
+
+Git & GitHub
+
+VS Code
+
+Composer
+
+NPM
+
+Vite
+
+🔐 Authentication, Security & Payments
+
+Authentication & Security
+
+Better Auth
+
+Login / Registration systems
+
+Role-Based Access Control (RBAC)
+
+Protected routes & middleware
+
+Admin / user authorization
+
+Payment Integration
+
+Stripe
+
+SSLCOMMERZ
+
+Payment workflow & transaction handling
+
+🧠 Advanced & Modern Development
+
+Area
+
+What I'm working with
+
+Browser Fundamentals
+
+DOM vs BOM
+
+TypeScript
+
+Basic TypeScript + OOP
+
+AI
+
+AI mindset & AI integration
+
+AI Development
+
+AI-assisted coding workflows
+
+API
+
+API integration
+
+Testing
+
+Testing fundamentals
+
+Architecture
+
+Modular backend patterns
+
+Problem Solving
+
+JavaScript / ES6+ problem solving
+
+📌 Featured Projects
+
+🛒 Laravel eCommerce Platform
+
+Full-featured online shopping system with product management, cart, wishlist, authentication and order workflows.
+
+Stack: Laravel PHP MySQL Bootstrap jQuery JavaScript
+
+❤️ Wishlist & Cart System
+
+Dynamic cart and persistent wishlist functionality with database relationships and interactive frontend behavior.
+
+Stack: Laravel PHP MySQL jQuery AJAX
+
+🔐 Authentication & Role Management
+
+Secure authentication flow with registration, login, middleware protection and role-based access control.
+
+Stack: Laravel PHP MySQL RBAC
+
+🏍️ Motor Servicing Business Website
+
+Responsive business website designed for a UAE motor servicing company with service-focused UI and customer conversion in mind.
+
+Focus: Responsive Design SEO Bootstrap AOS Slick Slider
+
+📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=devwithefran99&show_icons=true&hide_border=true&theme=transparent&title_color=6c63ff&icon_color=2dc89a&text_color=8a8898&bg_color=0d0d14&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwithefran99&layout=compact&hide_border=true&theme=transparent&title_color=6c63ff&text_color=8a8898&bg_color=0d0d14&langs_count=8" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://streak-stats.demolab.com?user=devwithefran99&theme=transparent&hide_border=true&background=0d0d14&ring=6c63ff&fire=2dc89a&currStreakLabel=6c63ff&sideLabels=8a8898&dates=4a4868&stroke=1e1e2e&currStreakNum=e8e6f8&sideNums=c8c6d8" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=devwithefran99&bg_color=0d0d14&color=6c63ff&line=2dc89a&point=e8e6f8&area=true&area_color=6c63ff&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+</p>
+
+🗺️ My Development Journey
+
+HTML / CSS
+    ↓
+JavaScript & ES6+
+    ↓
+PHP & Laravel
+    ↓
+MySQL / MariaDB
+    ↓
+Bootstrap & jQuery
+    ↓
+React.js
+    ↓
+Tailwind CSS
+    ↓
+TypeScript
+    ↓
+Node.js & Express.js
+    ↓
+MongoDB & Mongoose
+    ↓
+Next.js
+    ↓
+Auth · Payments · APIs · Testing
+    ↓
+AI Integration & AI-Assisted Development
+
+Learning → Building → Improving → Repeating
+
+🎯 Current Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Tailwind%20%7C%20TypeScript-61DAFB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-Laravel%20%7C%20Node%20%7C%20Express-FF2D20?style=flat-square" />
+  <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20MongoDB-47A248?style=flat-square" />
+  <img src="https://img.shields.io/badge/Modern%20Web-Next.js%20%7C%20APIs%20%7C%20Auth-6c63ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI-Integration%20%7C%20Assisted%20Coding-2dc89a?style=flat-square" />
+</p>
+
+🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/devwithefran99">
+    <img src="https://img.shields.io/badge/GitHub-0d0d14?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:devwithefran99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0d0d14?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0d0d14?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Building real projects. Learning modern technologies. Getting better every day.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:161628,100:0a0a0f&height=110&section=footer" alt="Footer"/>
+</p>
