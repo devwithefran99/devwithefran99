@@ -86,7 +86,7 @@ UI Libraries & Development Tools
 <p align="center">
   <img
     width="90%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=devwithefran99&bg_color=0d0d14&color=6c63ff&line=2dc89a&point=e8e6f8&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=devwithefran99&theme=tokyo-night"
     alt="Erfan's GitHub Activity Graph"
   />
 </p>
