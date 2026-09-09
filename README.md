@@ -69,7 +69,7 @@ Databases
 UI Libraries & Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,composer,npm,vite" alt="Development Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,composer,npm,vite,figma" alt="Development Tools"/>
 </p>
 
 📊 GitHub Analytics
