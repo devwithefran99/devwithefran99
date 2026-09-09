@@ -53,45 +53,6 @@ Frontend
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,jquery,ts,nextjs" alt="Frontend Technologies"/>
 </p>
 
-Technology
-
-Focus
-
-HTML5
-
-Semantic & accessible markup
-
-CSS3
-
-Responsive layouts & modern styling
-
-JavaScript / ES6+
-
-DOM, events, arrays, functions & problem solving
-
-React.js
-
-Component-based UI development
-
-Tailwind CSS
-
-Utility-first responsive design
-
-Bootstrap 5
-
-Rapid responsive UI development
-
-jQuery
-
-DOM manipulation & dynamic interfaces
-
-TypeScript
-
-Type-safe JavaScript, basic OOP & modern patterns
-
-Next.js
-
-Modern React-based full-stack applications
 
 Backend
 
@@ -99,145 +60,17 @@ Backend
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" alt="Backend Technologies"/>
 </p>
 
-PHP & Laravel — MVC, routing, controllers, middleware, authentication, CRUD and eCommerce workflows
-
-Node.js & Express.js — REST APIs, server-side JavaScript and backend fundamentals
-
-Modular Pattern — organizing backend features into maintainable modules
-
-API Integration — consuming and building REST-style APIs
-
 Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database Technologies"/>
 </p>
 
-MySQL / MariaDB
-
-MongoDB
-
-Mongoose / ODM
-
-Database relationships, CRUD, migrations and data modeling
-
 UI Libraries & Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,composer,npm,vite" alt="Development Tools"/>
 </p>
-
-UI Libraries
-
-Hero UI
-
-shadcn/ui
-
-Frontend / Visualization
-
-AOS
-
-Slick Slider
-
-ApexCharts
-
-Development
-
-Git & GitHub
-
-VS Code
-
-Composer
-
-NPM
-
-Vite
-
-🔐 Authentication, Security & Payments
-
-Authentication & Security
-
-Better Auth
-
-Login / Registration systems
-
-Role-Based Access Control (RBAC)
-
-Protected routes & middleware
-
-Admin / user authorization
-
-Payment Integration
-
-Stripe
-
-SSLCOMMERZ
-
-Payment workflow & transaction handling
-
-🧠 Advanced & Modern Development
-
-Area
-
-What I'm working with
-
-Browser Fundamentals
-
-DOM vs BOM
-
-TypeScript
-
-Basic TypeScript + OOP
-
-AI
-
-AI mindset & AI integration
-
-AI Development
-
-AI-assisted coding workflows
-
-API
-
-API integration
-
-Testing
-
-Testing fundamentals
-
-Architecture
-
-Modular backend patterns
-
-Problem Solving
-
-JavaScript / ES6+ problem solving
-
-📌 Featured Projects
-
-🛒 Laravel eCommerce Platform
-
-Full-featured online shopping system with product management, cart, wishlist, authentication and order workflows.
-
-Stack: Laravel PHP MySQL Bootstrap jQuery JavaScript
-
-❤️ Wishlist & Cart System
-
-Dynamic cart and persistent wishlist functionality with database relationships and interactive frontend behavior.
-
-Stack: Laravel PHP MySQL jQuery AJAX
-
-🔐 Authentication & Role Management
-
-Secure authentication flow with registration, login, middleware protection and role-based access control.
-
-Stack: Laravel PHP MySQL RBAC
-
-🏍️ Motor Servicing Business Website
-
-Responsive business website designed for a UAE motor servicing company with service-focused UI and customer conversion in mind.
-
-Focus: Responsive Design SEO Bootstrap AOS Slick Slider
 
 📊 GitHub Analytics
 
