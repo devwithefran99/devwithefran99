@@ -84,7 +84,11 @@ UI Libraries & Development Tools
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=devwithefran99&bg_color=0d0d14&color=6c63ff&line=2dc89a&point=e8e6f8&area=true&area_color=6c63ff&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+  <img
+    width="90%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=devwithefran99&bg_color=0d0d14&color=6c63ff&line=2dc89a&point=e8e6f8&area=true&hide_border=true"
+    alt="Erfan's GitHub Activity Graph"
+  />
 </p>
 
 🗺️ My Development Journey
