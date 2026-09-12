@@ -63,7 +63,7 @@ Backend
 Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,mariadb" alt="Database Technologies"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database Technologies"/>
 </p>
 
 UI Libraries & Development Tools
