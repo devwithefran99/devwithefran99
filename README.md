@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1600" height="700" alt="git" src="https://github.com/user-attachments/assets/512ad023-24d9-4137-9820-2257d33be6d6" />
+ <img width="1200" height="653" alt="banner_v2" src="https://github.com/user-attachments/assets/40b7e3f1-eeae-4914-b365-54000a6a71e8" />
 </p>
 
 <h1 align="center">Hi, I'm Erfan Hossen Shawon 👋</h1>
